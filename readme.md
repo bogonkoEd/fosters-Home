@@ -19,7 +19,7 @@ npm run dev
 ```
 + The project should now be running at http://localhost:3000. Open your web browser and navigate to this address to view the 3D render of the house.
 
-##Dependencies
+## Dependencies
 This project uses the following dependencies:
 
 + Three.js - A lightweight and easy-to-use library for creating and displaying 3D graphics in a web browser.

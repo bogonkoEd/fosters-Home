@@ -21,8 +21,9 @@ npm run dev
 
 Dependencies
 This project uses the following dependencies:
-+Three.js - A lightweight and easy-to-use library for creating and displaying 3D graphics in a web browser.
-+Webpack - A module bundler that is used to bundle the JavaScript and other assets in this project.
-+Babel - A JavaScript compiler that is used to transpile modern JavaScript syntax to a format that is compatible with older web browsers.
+
++ Three.js - A lightweight and easy-to-use library for creating and displaying 3D graphics in a web browser.
++ Webpack - A module bundler that is used to bundle the JavaScript and other assets in this project.
++ Babel - A JavaScript compiler that is used to transpile modern JavaScript syntax to a format that is compatible with older web browsers.
 
 
